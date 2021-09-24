@@ -1,0 +1,1 @@
+/work/halla/sbs/seeds/panguin/lib64/libpanguin_rdict.pcm

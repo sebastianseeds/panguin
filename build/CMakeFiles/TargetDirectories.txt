@@ -1,0 +1,10 @@
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/install/strip.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/install/local.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/install.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/list_install_components.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/rebuild_cache.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/edit_cache.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/panguin-bin.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/panguin-lib.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/panguin.dir
+/work/halla/sbs/seeds/panguin/build/CMakeFiles/panguin_ROOTDICT.dir
